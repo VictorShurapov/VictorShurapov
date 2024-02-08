@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 My name is Viktor Shurapov. I'm from Kyiv, Ukraine 🇺🇦
-- 🏄‍♂️ I’m currently learning SwiftUI. My goal is to cover all View protocol's modifiers.
-- ⚡️ Fun fact: I'm using Swift programming language since its first version! :)
+I'm a Software Engineer with 3+ years of practice in iOS development ✨ 
+
+WWDC Enthusiast. Stack Overflow contributor. CocoaHeads and hackathon attendee. 
+Continuously working on enhancing my expertise in SwiftUI. 
+Looking for a good, friendly team to gain new experience in challenging projects.
+
+- 🏄‍♂️ Focus on: SwiftData. Persist data using declarative code. 
+- ⚡️ Fun fact: I've been using Swift programming language since its first version! :)
 
 Please check out my repositories! Enjoy and happy coding! 🌪️
