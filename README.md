@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Viktor Shurapov. I'm from Kyiv, Ukraine 🇺🇦
-I'm a Software Engineer with 3+ years of practice in iOS development ✨ 
+I'm a Software Engineer with 5+ years of practice in iOS development ✨ 
 
 WWDC Enthusiast. Stack Overflow contributor. CocoaHeads and hackathon attendee. 
 Continuously working on enhancing my expertise in SwiftUI. 
